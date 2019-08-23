@@ -8,9 +8,9 @@ namespace Tests
         [SetUp]
         public void Setup()
         {
-           // var httpclient = new HttpClient();
+           
         }
-
+        //this test uses httpClient
         [Test]
         public void Get_Should_Return_Success()
         {
